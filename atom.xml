@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hai sky</title>
+  <icon>https://blog.haiskyblog.top/icon.png</icon>
+  <subtitle>知行合一</subtitle>
+  <link href="https://blog.haiskyblog.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.haiskyblog.top/"/>
+  <updated>2024-07-18T13:47:39.453Z</updated>
+  <id>https://blog.haiskyblog.top/</id>
+  
+  <author>
+    <name>Hai sky</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>爱听歌的人，白嫖一个酷我音乐破解版尝尝鲜</title>
+    <link href="https://blog.haiskyblog.top/p/6d2ebce6.html"/>
+    <id>https://blog.haiskyblog.top/p/6d2ebce6.html</id>
+    <published>2024-07-18T10:46:31.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;虽然我五音不全，但是闲暇时间还是很享受听听歌曲的，这是我解压的一种方式。听歌让我沉浸其中，忘却烦恼。&lt;/p&gt;
+&lt;p&gt;在主流音乐播放器中，‌QQ音乐、‌网易云音乐和酷狗音乐是三个备受推崇的选择。‌它们各自具有不同的特点和优势，‌能够满足不同用户的需求。‌&lt;/p&gt;
+&lt;ul&gt;
+&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="软件分享" scheme="https://blog.haiskyblog.top/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="音乐" scheme="https://blog.haiskyblog.top/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生活百宝箱：点亮你的生活智慧</title>
+    <link href="https://blog.haiskyblog.top/p/c0aca2db.html"/>
+    <id>https://blog.haiskyblog.top/p/c0aca2db.html</id>
+    <published>2024-07-14T13:38:44.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;figure id=&quot;mc-贫道&quot; class=&quot;music-card&quot;&gt;
+        &lt;div class=&quot;player&quot;&gt;
+            &lt;audio class=&quot;audio&quot; preload=&quot;metadata&quot;&gt;&lt;/audio&gt;
+  </summary>
+        
+      
+    
+    
+    
+    <category term="知识积累" scheme="https://blog.haiskyblog.top/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/"/>
+    
+    
+    <category term="常识" scheme="https://blog.haiskyblog.top/tags/%E5%B8%B8%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 升级到 V7.0.0 或更高的版本的正确姿势！</title>
+    <link href="https://blog.haiskyblog.top/p/6a24ab1d.html"/>
+    <id>https://blog.haiskyblog.top/p/6a24ab1d.html</id>
+    <published>2024-07-12T12:39:44.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;今天部署博客时出现了以下问题：&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="教程记录" scheme="https://blog.haiskyblog.top/categories/%E6%95%99%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="hexo升级" scheme="https://blog.haiskyblog.top/tags/hexo%E5%8D%87%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过alias设置别名实现Hexo博客的高效使用</title>
+    <link href="https://blog.haiskyblog.top/p/ab4a956a.html"/>
+    <id>https://blog.haiskyblog.top/p/ab4a956a.html</id>
+    <published>2024-07-11T19:46:43.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;alias实现上传简单化&quot;&gt;&lt;a href=&quot;#alias实现上传简单化&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程记录" scheme="https://blog.haiskyblog.top/categories/%E6%95%99%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="alias" scheme="https://blog.haiskyblog.top/tags/alias/"/>
+    
+    <category term="别名" scheme="https://blog.haiskyblog.top/tags/%E5%88%AB%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Docker搭建Umami统计，显示近一年的pv、uv数据的API搭建</title>
+    <link href="https://blog.haiskyblog.top/p/984bd9de.html"/>
+    <id>https://blog.haiskyblog.top/p/984bd9de.html</id>
+    <published>2024-07-09T13:31:42.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;配置教程&quot;&gt;&lt;a href=&quot;#配置教程&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="我的项目" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="umami" scheme="https://blog.haiskyblog.top/tags/umami/"/>
+    
+    <category term="数据统计" scheme="https://blog.haiskyblog.top/tags/%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>作为白嫖的惯犯，记录一次typora激活的经过</title>
+    <link href="https://blog.haiskyblog.top/p/4b91b9ee.html"/>
+    <id>https://blog.haiskyblog.top/p/4b91b9ee.html</id>
+    <published>2024-07-08T17:23:43.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Typora是一款由Abner Lee开发的轻量级Markdown编辑器，适用于OS</summary>
+        
+      
+    
+    
+    
+    <category term="经验之谈" scheme="https://blog.haiskyblog.top/categories/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88/"/>
+    
+    
+    <category term="typora破解" scheme="https://blog.haiskyblog.top/tags/typora%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一次事故究竟给了我什么样的思考？</title>
+    <link href="https://blog.haiskyblog.top/p/55fb0833.html"/>
+    <id>https://blog.haiskyblog.top/p/55fb0833.html</id>
+    <published>2024-07-08T08:40:24.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img.haiskyblog.top/p/202407080851766.jpg!post_img&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;发生了什么？&quot;&gt;&lt;a href=&quot;#发生了什么？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生活感悟" scheme="https://blog.haiskyblog.top/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="幸福" scheme="https://blog.haiskyblog.top/tags/%E5%B9%B8%E7%A6%8F/"/>
+    
+    <category term="生命" scheme="https://blog.haiskyblog.top/tags/%E7%94%9F%E5%91%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>怎样自己搭建博客的busuanzi卜算子平台，实现静态博客浏览量统计？</title>
+    <link href="https://blog.haiskyblog.top/p/4fbcec2d.html"/>
+    <id>https://blog.haiskyblog.top/p/4fbcec2d.html</id>
+    <published>2024-07-05T08:34:24.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;鉴于busuanzi占用太多的响应时间，以及很容易垮掉，所以打算自己搭建busuanzi服务。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/soxft/busuanzi&quot;&gt;Github项目地址&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;前提&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="我的项目" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="busuanzi" scheme="https://blog.haiskyblog.top/tags/busuanzi/"/>
+    
+    <category term="浏览量" scheme="https://blog.haiskyblog.top/tags/%E6%B5%8F%E8%A7%88%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用TimePlus主题创建属于自己的图片网站</title>
+    <link href="https://blog.haiskyblog.top/p/65493f39.html"/>
+    <id>https://blog.haiskyblog.top/p/65493f39.html</id>
+    <published>2024-07-04T15:00:21.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近想着部署一个相册了，想到张洪heo维护了一个相册主题TimePlus。正好有一个轻量服务器，果断拿来用了。&lt;/p&gt;
+&lt;h2 id=&quot;主题预览&quot;&gt;&lt;a href=&quot;#主题预览&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="我的项目" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="TimePlus" scheme="https://blog.haiskyblog.top/tags/TimePlus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一直以来被太极界奉为圭臬的太极拳理论：太极拳论</title>
+    <link href="https://blog.haiskyblog.top/p/ed0b0daf.html"/>
+    <id>https://blog.haiskyblog.top/p/ed0b0daf.html</id>
+    <published>2024-07-03T15:41:44.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;太极拳论原文&quot;&gt;&lt;a href=&quot;#太极拳论原文&quot; class=&quot;headerlink&quot; title=&quot;太极拳论原文&quot;&gt;&lt;/a&gt;太极拳论原文&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;山右王宗岳太极拳论，为&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="太极之禅" scheme="https://blog.haiskyblog.top/categories/%E5%A4%AA%E6%9E%81%E4%B9%8B%E7%A6%85/"/>
+    
+    
+    <category term="太极" scheme="https://blog.haiskyblog.top/tags/%E5%A4%AA%E6%9E%81/"/>
+    
+    <category term="太极拳论" scheme="https://blog.haiskyblog.top/tags/%E5%A4%AA%E6%9E%81%E6%8B%B3%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>halo-强大易用的开源 建站工具</title>
+    <link href="https://blog.haiskyblog.top/p/fa2f4dc.html"/>
+    <id>https://blog.haiskyblog.top/p/fa2f4dc.html</id>
+    <published>2024-06-30T12:25:45.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一次偶然的机会，翻阅张洪大佬的博客主页时了解到halo这个开源建站工具，点开了解了一下，确实不错，相比之下，其支持的免费主题还真不少，当然也有一些收费的，不过免费的对于做blog而言足够了。我尝试它的原因有两点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;其支持我</summary>
+        
+      
+    
+    
+    
+    <category term="经验之谈" scheme="https://blog.haiskyblog.top/categories/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88/"/>
+    
+    
+    <category term="halo" scheme="https://blog.haiskyblog.top/tags/halo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>陈氏太极拳之基本知识篇</title>
+    <link href="https://blog.haiskyblog.top/p/8c92e16.html"/>
+    <id>https://blog.haiskyblog.top/p/8c92e16.html</id>
+    <published>2024-06-24T12:25:45.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;太极的定义&lt;/strong&gt;: 阴阳的高度融合叫太极.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;太极拳的定义&lt;/strong&gt;:</summary>
+        
+      
+    
+    
+    
+    <category term="太极之禅" scheme="https://blog.haiskyblog.top/categories/%E5%A4%AA%E6%9E%81%E4%B9%8B%E7%A6%85/"/>
+    
+    
+    <category term="太极" scheme="https://blog.haiskyblog.top/tags/%E5%A4%AA%E6%9E%81/"/>
+    
+    <category term="陈氏" scheme="https://blog.haiskyblog.top/tags/%E9%99%88%E6%B0%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>陈氏太极拳之老架一路拳谱</title>
+    <link href="https://blog.haiskyblog.top/p/13e83560.html"/>
+    <id>https://blog.haiskyblog.top/p/13e83560.html</id>
+    <published>2024-06-19T12:25:45.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;此拳系马虹支系，于今年在南湖公园从郭庆法老师处习得，此拳，柔中有刚，折叠往复，阴阳相济，是二路的基础，人人可习，人人可练，一可强身健体，二可防身自卫。再此作记录备忘用，遂作此文。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="太极之禅" scheme="https://blog.haiskyblog.top/categories/%E5%A4%AA%E6%9E%81%E4%B9%8B%E7%A6%85/"/>
+    
+    
+    <category term="太极" scheme="https://blog.haiskyblog.top/tags/%E5%A4%AA%E6%9E%81/"/>
+    
+    <category term="陈氏" scheme="https://blog.haiskyblog.top/tags/%E9%99%88%E6%B0%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>母亲节乘船特惠活动来袭，你准备好了吗？</title>
+    <link href="https://blog.haiskyblog.top/p/2f3227f1.html"/>
+    <id>https://blog.haiskyblog.top/p/2f3227f1.html</id>
+    <published>2024-05-07T22:00:00.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;母亲节，向伟大的母亲们表达敬爱与感激的日子。为感恩母爱，我们特别推出母亲节乘船特惠活动，让每一位母亲都能感受到我们的心意和关怀！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;愿时光慢些走</summary>
+        
+      
+    
+    
+    
+    <category term="工作学习" scheme="https://blog.haiskyblog.top/categories/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="母亲节" scheme="https://blog.haiskyblog.top/tags/%E6%AF%8D%E4%BA%B2%E8%8A%82/"/>
+    
+    <category term="游船" scheme="https://blog.haiskyblog.top/tags/%E6%B8%B8%E8%88%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>永久使用GPT4.0，点亮人生无限可能！</title>
+    <link href="https://blog.haiskyblog.top/p/9acd44e4.html"/>
+    <id>https://blog.haiskyblog.top/p/9acd44e4.html</id>
+    <published>2024-02-04T17:10:45.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;1月30日，我们期待已久的GPT4.0已经在HuluAI正式接入！！！届时HuluAI已集成GPT4.0、文心一言以及Midjourney和Dall-E3，众所周知，Midjourney是AI绘画界的王者啊，一言以蔽之，给了我们普通人以文字绘画的机</summary>
+        
+      
+    
+    
+    
+    <category term="工作学习" scheme="https://blog.haiskyblog.top/categories/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="GPT4.0" scheme="https://blog.haiskyblog.top/tags/GPT4-0/"/>
+    
+    <category term="精选" scheme="https://blog.haiskyblog.top/tags/%E7%B2%BE%E9%80%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用YesPlayMusic打造一个自己的音乐播放器</title>
+    <link href="https://blog.haiskyblog.top/p/d5e86132.html"/>
+    <id>https://blog.haiskyblog.top/p/d5e86132.html</id>
+    <published>2024-01-09T11:25:45.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;为什么要部署个折磨个播放器&quot;&gt;&lt;a href=&quot;#为什么要部署个折磨个播放器&quot; class=&quot;headerlink&quot; title=&quot;为什么要部署个折磨个播放器&quot;&gt;&lt;/a&gt;为什么要部署个折磨个播放器&lt;/h2&gt;&lt;p&gt;只是觉得爽而已。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="经验之谈" scheme="https://blog.haiskyblog.top/categories/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88/"/>
+    
+    
+    <category term="yesplaymusic" scheme="https://blog.haiskyblog.top/tags/yesplaymusic/"/>
+    
+    <category term="music" scheme="https://blog.haiskyblog.top/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python学习：关于列表操作几个常用的方法</title>
+    <link href="https://blog.haiskyblog.top/p/95120219.html"/>
+    <id>https://blog.haiskyblog.top/p/95120219.html</id>
+    <published>2024-01-09T10:15:28.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;关于列表操作常用的几个方法&quot;&gt;&lt;a href=&quot;#关于列表操作常用的几个方法&quot; class=&quot;headerlink&quot; title=&quot;关于列表操作常用的几个方法&quot;&gt;&lt;/a&gt;关于列表操作常用的几个方法&lt;/h2&gt;&lt;h3 id=&quot;pop&quot;&gt;&lt;a href=&quot;#pop&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="后端学习" scheme="https://blog.haiskyblog.top/categories/%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="python" scheme="https://blog.haiskyblog.top/tags/python/"/>
+    
+    <category term="方法" scheme="https://blog.haiskyblog.top/tags/%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python学习：The Zen of Python</title>
+    <link href="https://blog.haiskyblog.top/p/d77934a6.html"/>
+    <id>https://blog.haiskyblog.top/p/d77934a6.html</id>
+    <published>2024-01-08T21:25:45.000Z</published>
+    <updated>2024-07-18T13:47:39.449Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;最近开始学python了，就当重新培养一个兴趣爱好吧！刚才学习python时，书中提到了python之禅，在解释器中输入&lt;code&gt;python</summary>
+        
+      
+    
+    
+    
+    <category term="后端学习" scheme="https://blog.haiskyblog.top/categories/%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="python" scheme="https://blog.haiskyblog.top/tags/python/"/>
+    
+    <category term="zen" scheme="https://blog.haiskyblog.top/tags/zen/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>几招解锁全网复制新姿势</title>
+    <link href="https://blog.haiskyblog.top/p/ee7b2aac.html"/>
+    <id>https://blog.haiskyblog.top/p/ee7b2aac.html</id>
+    <published>2024-01-05T10:30:10.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img.haiskyblog.top/p/202401051241859.jpg!post_img&quot; alt=&quot;copy</summary>
+        
+      
+    
+    
+    
+    <category term="经验之谈" scheme="https://blog.haiskyblog.top/categories/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88/"/>
+    
+    
+    <category term="教程" scheme="https://blog.haiskyblog.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="copy" scheme="https://blog.haiskyblog.top/tags/copy/"/>
+    
+    <category term="复制" scheme="https://blog.haiskyblog.top/tags/%E5%A4%8D%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2024，新的一年，我将迎来怎样的改变与规划？</title>
+    <link href="https://blog.haiskyblog.top/p/63ebc2ca.html"/>
+    <id>https://blog.haiskyblog.top/p/63ebc2ca.html</id>
+    <published>2024-01-03T17:10:45.000Z</published>
+    <updated>2024-07-18T13:47:39.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;开正题之前，我先说说为啥写这个年终总结，日复一日，年复一年，自己总感觉过得迷迷糊糊地，不知成长了些什么，不知收获了些什么，可能也有，但是就是列不出来，写这个总结，总体来说，是想让自己心里有个数，细数这一年来，做了什么，做成功了那些事，收获了什么有价</summary>
+        
+      
+    
+    
+    
+    <category term="生活感悟" scheme="https://blog.haiskyblog.top/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="年终总结" scheme="https://blog.haiskyblog.top/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="2024" scheme="https://blog.haiskyblog.top/tags/2024/"/>
+    
+  </entry>
+  
+</feed>
