@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>海Sky</title>
+  <icon>https://blog.haiskyblog.top/icon.png</icon>
+  <subtitle>记录和分享生活</subtitle>
+  <link href="https://blog.haiskyblog.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.haiskyblog.top/"/>
+  <updated>2026-01-19T02:48:03.633Z</updated>
+  <id>https://blog.haiskyblog.top/</id>
+  
+  <author>
+    <name>海Sky</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>逝去的2024与充满希望的2025</title>
+    <link href="https://blog.haiskyblog.top/p/b00bebfc.html"/>
+    <id>https://blog.haiskyblog.top/p/b00bebfc.html</id>
+    <published>2025-01-09T16:58:43.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;从去年起，有一个计划，每年年末写一个年度总结。然而执笔时却不知从何下笔，不知道自己写些什么？这一年的时光，就在浑浑噩噩中流逝了，没有一点痕迹。这是我的悲哀。&lt;/p&gt;
+&lt;p&gt;过去的已经过去，以后的时光还得我自己去走。怎么走？必须有个规划了，不能如以前一样毫无章法的活着了。&lt;/</summary>
+        
+      
+    
+    
+    
+    <category term="生活琐记" scheme="https://blog.haiskyblog.top/categories/%E7%94%9F%E6%B4%BB%E7%90%90%E8%AE%B0/"/>
+    
+    
+    <category term="2024" scheme="https://blog.haiskyblog.top/tags/2024/"/>
+    
+    <category term="年度小结" scheme="https://blog.haiskyblog.top/tags/%E5%B9%B4%E5%BA%A6%E5%B0%8F%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Sequoia 15.0怎么驱动博通无线网卡？</title>
+    <link href="https://blog.haiskyblog.top/p/40fd9bc8.html"/>
+    <id>https://blog.haiskyblog.top/p/40fd9bc8.html</id>
+    <published>2024-12-21T19:52:00.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;用到的工具&quot;&gt;&lt;a href=&quot;#用到的工具&quot; class=&quot;headerlink&quot; title=&quot;用到的工具&quot;&gt;&lt;/a&gt;用到的工具&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;opencore configurator 用于编辑oc配置文件。&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="教程分享" scheme="https://blog.haiskyblog.top/categories/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="macOS" scheme="https://blog.haiskyblog.top/tags/macOS/"/>
+    
+    <category term="博通" scheme="https://blog.haiskyblog.top/tags/%E5%8D%9A%E9%80%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习部署一个今日新闻热榜前端页面</title>
+    <link href="https://blog.haiskyblog.top/p/66ce634e.html"/>
+    <id>https://blog.haiskyblog.top/p/66ce634e.html</id>
+    <published>2024-12-19T16:33:00.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;偶然间发现一个今日新闻热榜页面，可以一览各大新闻平台今日重大新闻，觉得酷极了，虽然不一定看，但是先部署上再说。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.haiskyblog.top/p/202412191710515.webp!post_img&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程分享" scheme="https://blog.haiskyblog.top/categories/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="今日热榜" scheme="https://blog.haiskyblog.top/tags/%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为博客增加一个漂亮的今日热门卡片</title>
+    <link href="https://blog.haiskyblog.top/p/1548b5d1.html"/>
+    <id>https://blog.haiskyblog.top/p/1548b5d1.html</id>
+    <published>2024-12-16T20:58:00.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;搭建umami&quot;&gt;&lt;a href=&quot;#搭建umami&quot; class=&quot;headerlink&quot; title=&quot;搭建umami&quot;&gt;&lt;/a&gt;搭建umami&lt;/h2&gt;&lt;p&gt;参考：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="教程分享" scheme="https://blog.haiskyblog.top/categories/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="hot" scheme="https://blog.haiskyblog.top/tags/hot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo部署到服务器以及twikoo私有部署</title>
+    <link href="https://blog.haiskyblog.top/p/94cab3be.html"/>
+    <id>https://blog.haiskyblog.top/p/94cab3be.html</id>
+    <published>2024-12-09T21:20:05.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;本人对服务器部署相关内容确实不太熟悉，主要是代码太多了，好了语句似懂非懂的，有必要记录一下，主要针对hexo部署到腾讯云轻量应用服务器和用docker安装twikoo评论系统。事先声明，此文章大部分取自yyyzyyyz的关于twikoo私有部署的文</summary>
+        
+      
+    
+    
+    
+    <category term="教程分享" scheme="https://blog.haiskyblog.top/categories/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="twikoo" scheme="https://blog.haiskyblog.top/tags/twikoo/"/>
+    
+    <category term="服务器" scheme="https://blog.haiskyblog.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我目前的博客是怎样练成的？</title>
+    <link href="https://blog.haiskyblog.top/p/e83b130e.html"/>
+    <id>https://blog.haiskyblog.top/p/e83b130e.html</id>
+    <published>2024-12-09T17:40:07.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我的博客经历了哪些坎坷曲折呢？下面让我来梳理一下。&lt;/p&gt;
+&lt;p&gt;我的博客框架是hexo。&lt;/p&gt;
+&lt;p&gt;主题经历了Next、butterfly、butterfly魔改、solitude。&lt;/p&gt;
+&lt;h2 id=&quot;主题相关项目&quot;&gt;&lt;a href=&quot;#主题相关项目&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习记录" scheme="https://blog.haiskyblog.top/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="博客" scheme="https://blog.haiskyblog.top/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为我的博客主题侧边栏添加一个日历卡片</title>
+    <link href="https://blog.haiskyblog.top/p/cc2ae51b.html"/>
+    <id>https://blog.haiskyblog.top/p/cc2ae51b.html</id>
+    <published>2024-11-13T18:44:09.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;需要准备的文件&quot;&gt;&lt;a href=&quot;#需要准备的文件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="优秀转载" scheme="https://blog.haiskyblog.top/categories/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+    <category term="日历" scheme="https://blog.haiskyblog.top/tags/%E6%97%A5%E5%8E%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>陈氏太极剑63式拳谱</title>
+    <link href="https://blog.haiskyblog.top/p/af91ab4f.html"/>
+    <id>https://blog.haiskyblog.top/p/af91ab4f.html</id>
+    <published>2024-10-26T21:22:45.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="我与太极" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E4%B8%8E%E5%A4%AA%E6%9E%81/"/>
+    
+    
+    <category term="太极剑" scheme="https://blog.haiskyblog.top/tags/%E5%A4%AA%E6%9E%81%E5%89%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 Uptime Kuma 搭建一个在线网站服务状态面板</title>
+    <link href="https://blog.haiskyblog.top/p/4cb3b97b.html"/>
+    <id>https://blog.haiskyblog.top/p/4cb3b97b.html</id>
+    <published>2024-07-22T10:41:00.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;翻阅友链网站时，看到有的搭建了一个在线网站服务状态的页面，感觉挺酷，当然也是有用的，可以很方便的了解每个网站是否正常运行，从而方便我们对我们的每个网站进行维护。下面将我的搭建过程记录一下。&lt;/p&gt;
+&lt;h2 id=&quot;项目&quot;&gt;&lt;a href=&quot;#项目&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="我的项目" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="status" scheme="https://blog.haiskyblog.top/tags/status/"/>
+    
+    <category term="站点监测" scheme="https://blog.haiskyblog.top/tags/%E7%AB%99%E7%82%B9%E7%9B%91%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker部署Hexo以及使用qexo作为后台管理</title>
+    <link href="https://blog.haiskyblog.top/p/ee7549ed.html"/>
+    <id>https://blog.haiskyblog.top/p/ee7549ed.html</id>
+    <published>2024-07-18T15:30:56.422Z</published>
+    <updated>2024-07-23T14:07:40.399Z</updated>
+    
+    
+    <summary type="html">docker部署hexo 拉取镜像 docker pull registry.cn-hangzhou.aliyuncs.com/aceqwe-doceker/hexo:v1  启动容器（可以直接进入/home/hexo目录进行编辑，例如：替换主题，发布文章） docker run -it --name hexo -p 4000:4000 -v /home/hexo:/home/hexo --dns...</summary>
+    
+    
+    
+    <category term="教程分享" scheme="https://blog.haiskyblog.top/categories/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="博客迁移" scheme="https://blog.haiskyblog.top/tags/%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>爱听歌的人，白嫖一个酷我音乐破解版尝尝鲜</title>
+    <link href="https://blog.haiskyblog.top/p/6d2ebce6.html"/>
+    <id>https://blog.haiskyblog.top/p/6d2ebce6.html</id>
+    <published>2024-07-18T02:46:31.000Z</published>
+    <updated>2024-07-19T06:12:59.181Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;虽然我五音不全，但是闲暇时间还是很享受听听歌曲的，这是我解压的一种方式。听歌让我沉浸其中，忘却烦恼。&lt;/p&gt;
+&lt;p&gt;在主流音乐播放器中，‌QQ音乐、‌网易云音乐和酷狗音乐是三个备受推崇的选择。‌它们各自具有不同的特点和优势，‌能够满足不同用户的需求。‌&lt;/p&gt;
+&lt;ul&gt;
+&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="软件推荐" scheme="https://blog.haiskyblog.top/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="音乐" scheme="https://blog.haiskyblog.top/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 升级到 V7.0.0 或更高的版本的正确姿势！</title>
+    <link href="https://blog.haiskyblog.top/p/6a24ab1d.html"/>
+    <id>https://blog.haiskyblog.top/p/6a24ab1d.html</id>
+    <published>2024-07-12T12:39:44.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;今天部署博客时出现了以下问题：&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="学习记录" scheme="https://blog.haiskyblog.top/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="hexo升级" scheme="https://blog.haiskyblog.top/tags/hexo%E5%8D%87%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过alias设置别名实现Hexo博客的高效使用</title>
+    <link href="https://blog.haiskyblog.top/p/ab4a956a.html"/>
+    <id>https://blog.haiskyblog.top/p/ab4a956a.html</id>
+    <published>2024-07-11T19:46:43.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;alias实现上传简单化&quot;&gt;&lt;a href=&quot;#alias实现上传简单化&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习记录" scheme="https://blog.haiskyblog.top/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="alias" scheme="https://blog.haiskyblog.top/tags/alias/"/>
+    
+    <category term="别名" scheme="https://blog.haiskyblog.top/tags/%E5%88%AB%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Docker搭建Umami统计，显示近一年的pv、uv数据的API搭建</title>
+    <link href="https://blog.haiskyblog.top/p/984bd9de.html"/>
+    <id>https://blog.haiskyblog.top/p/984bd9de.html</id>
+    <published>2024-07-09T13:31:42.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;配置教程&quot;&gt;&lt;a href=&quot;#配置教程&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="我的项目" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="umami" scheme="https://blog.haiskyblog.top/tags/umami/"/>
+    
+    <category term="数据统计" scheme="https://blog.haiskyblog.top/tags/%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>作为白嫖的惯犯，记录一次typora激活的经过</title>
+    <link href="https://blog.haiskyblog.top/p/4b91b9ee.html"/>
+    <id>https://blog.haiskyblog.top/p/4b91b9ee.html</id>
+    <published>2024-07-08T17:23:43.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Typora是一款由Abner Lee开发的轻量级Markdown编辑器，适用于OS</summary>
+        
+      
+    
+    
+    
+    <category term="教程分享" scheme="https://blog.haiskyblog.top/categories/%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="typora破解" scheme="https://blog.haiskyblog.top/tags/typora%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一次事故究竟给了我什么样的思考？</title>
+    <link href="https://blog.haiskyblog.top/p/55fb0833.html"/>
+    <id>https://blog.haiskyblog.top/p/55fb0833.html</id>
+    <published>2024-07-08T08:40:24.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img.haiskyblog.top/p/202407080851766.jpg!post_img&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;发生了什么？&quot;&gt;&lt;a href=&quot;#发生了什么？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生活琐记" scheme="https://blog.haiskyblog.top/categories/%E7%94%9F%E6%B4%BB%E7%90%90%E8%AE%B0/"/>
+    
+    
+    <category term="幸福" scheme="https://blog.haiskyblog.top/tags/%E5%B9%B8%E7%A6%8F/"/>
+    
+    <category term="生命" scheme="https://blog.haiskyblog.top/tags/%E7%94%9F%E5%91%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>怎样自己搭建博客的busuanzi卜算子平台，实现静态博客浏览量统计？</title>
+    <link href="https://blog.haiskyblog.top/p/4fbcec2d.html"/>
+    <id>https://blog.haiskyblog.top/p/4fbcec2d.html</id>
+    <published>2024-07-05T08:34:24.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;鉴于busuanzi占用太多的响应时间，以及很容易垮掉，所以打算自己搭建busuanzi服务。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/soxft/busuanzi&quot;&gt;Github项目地址&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;前提&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="我的项目" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="busuanzi" scheme="https://blog.haiskyblog.top/tags/busuanzi/"/>
+    
+    <category term="浏览量" scheme="https://blog.haiskyblog.top/tags/%E6%B5%8F%E8%A7%88%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用TimePlus主题创建属于自己的图片网站</title>
+    <link href="https://blog.haiskyblog.top/p/65493f39.html"/>
+    <id>https://blog.haiskyblog.top/p/65493f39.html</id>
+    <published>2024-07-04T15:00:21.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近想着部署一个相册了，想到张洪heo维护了一个相册主题TimePlus。正好有一个轻量服务器，果断拿来用了。&lt;/p&gt;
+&lt;h2 id=&quot;主题预览&quot;&gt;&lt;a href=&quot;#主题预览&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="我的项目" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="TimePlus" scheme="https://blog.haiskyblog.top/tags/TimePlus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一直以来被太极界奉为圭臬的太极拳理论：太极拳论</title>
+    <link href="https://blog.haiskyblog.top/p/ed0b0daf.html"/>
+    <id>https://blog.haiskyblog.top/p/ed0b0daf.html</id>
+    <published>2024-07-03T15:41:44.000Z</published>
+    <updated>2026-01-19T02:48:03.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;太极拳论原文&quot;&gt;&lt;a href=&quot;#太极拳论原文&quot; class=&quot;headerlink&quot; title=&quot;太极拳论原文&quot;&gt;&lt;/a&gt;太极拳论原文&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;山右王宗岳太极拳论，为&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="我与太极" scheme="https://blog.haiskyblog.top/categories/%E6%88%91%E4%B8%8E%E5%A4%AA%E6%9E%81/"/>
+    
+    
+    <category term="太极" scheme="https://blog.haiskyblog.top/tags/%E5%A4%AA%E6%9E%81/"/>
+    
+    <category term="太极拳论" scheme="https://blog.haiskyblog.top/tags/%E5%A4%AA%E6%9E%81%E6%8B%B3%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>halo-强大易用的开源 建站工具</title>
+    <link href="https://blog.haiskyblog.top/p/fa2f4dc.html"/>
+    <id>https://blog.haiskyblog.top/p/fa2f4dc.html</id>
+    <published>2024-06-30T12:25:45.000Z</published>
+    <updated>2026-01-19T02:48:03.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一次偶然的机会，翻阅张洪大佬的博客主页时了解到halo这个开源建站工具，点开了解了一下，确实不错，相比之下，其支持的免费主题还真不少，当然也有一些收费的，不过免费的对于做blog而言足够了。我尝试它的原因有两点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;其支持我</summary>
+        
+      
+    
+    
+    
+    <category term="工具资源" scheme="https://blog.haiskyblog.top/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+    
+    <category term="halo" scheme="https://blog.haiskyblog.top/tags/halo/"/>
+    
+  </entry>
+  
+</feed>
